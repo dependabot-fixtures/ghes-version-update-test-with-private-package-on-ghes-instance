@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/dependabot-fixtures/ghes-private-package-gem-on-ghes-instance
+  remote: https://<ghes-instance-name>/org-name/ghes-private-package-gem-on-ghes-instance
   revision: 63db43ab77623bd3d0d9d31db381a3670585fc25
   branch: main
   tag: v1.0.0
