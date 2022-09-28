@@ -17,5 +17,5 @@ updates:
     registries:
        - github-repo # Allow version updates for dependencies in this registry
     schedule:
-      interval: "montly"
+      interval: "weekly"
     insecure-external-code-execution: allow
